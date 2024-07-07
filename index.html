@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/style.css">
+    <link rel="shortcut icon" href="./img/Percha.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <title>Tienda</title>
+</head>
+<body>
+    <header class="header-container">
+        <div class="divImg">
+            <a href=""><img class="logo-img" src="./img/Camiseta.png" alt="Remera deportiva"></a>
+        </div>
+
+        <div class="divNavbar">
+            <nav class="navegacion">
+                <ul class="list">
+                    <li ><a class="navbar-item" href="">Inicio</a></li>
+                    <li ><a class="navbar-item" href="">Productos</a></li>
+                    <li ><a class="navbar-item" href="">off</a></li>
+                    <li class="li-cart"><a class="navbar-item" id="cart-navbar" href="./src/pages/cart.html">Carrito</a><p class="amount-cart-navbar"></p></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="cart-container">
+
+        </div>
+    </header>
+
+    <main class="main">
+        <ul class="main-category-container">
+        </ul>
+        <section class="main-products-container"></section>
+    </main>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/routie/0.3.2/routie.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script type="module" src="index.js"></script>
+    <script src="./src/components/footer.mjs"></script>
+</body>
+</html>

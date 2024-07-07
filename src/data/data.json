@@ -1,0 +1,124 @@
+[
+   {
+      "name": "Camiseta Home Diadora 2023",
+      "id": 1,
+      "price": 37799,
+      "type": "Remeras",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/camiseta-home-2023-01-bplay1-2f58bb370312d8668916866006554110-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Camiseta Away Diadora 2023 ",
+      "id": 2,
+      "price": 37799,
+      "type": "Remeras",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/away23-01-bplay1-2feca64f4aa0b150d216866006341855-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Remera de entrenamineto Diadora 2023",
+      "id": 3,
+      "price": 37799,
+      "type": "Remeras",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/re23mf-011-9880cf82a411e27ad716753717190121-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Short Away Diadra 2023",
+      "id": 4,
+      "price": 23999,
+      "type": "Short",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/sha23-away-011-26468d7b8de786985716852189601120-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Short Edición Estadio José Amalfitani Diadora 2023",
+      "id": 5,
+      "price": 23999,
+      "type": "Short",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/short-amalfitani-011-fc723132b92fcef25e16841666722625-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Bermuda de Salida Italiana Diadora 2023",
+      "id": 6,
+      "price": 29999,
+      "type": "Short",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/bs23negroitalia-01-dbcaba4cff1d81677b16963540584006-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Buzo de algodón Mujer Vélez",
+      "id": 7,
+      "price": 38000,
+      "type": "Buzo",
+      "img": "https://acdn.mitiendanube.com/stores/003/507/301/products/buzo-mujer-francia-tira-marino-0c465bb0ea667db15c17140973910057-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Buzo de algodón Mujer Vélez azul",
+      "id": 8,
+      "price": 38000,
+      "type": "Buzo",
+      "img": "https://acdn.mitiendanube.com/stores/003/507/301/products/buzo-mujer-marino-tira-francia-1a6237ea6cf1daea8817140976155304-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "RBuzo algodón Vélez Sarsfield escudo color plata ",
+      "id": 9,
+      "price": 6000,
+      "type": "Buzo",
+      "img": "https://acdn.mitiendanube.com/stores/003/507/301/products/1000062865-0f2a451700d68a37ca17181932858791-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Campera hombre CHILAVERT Vélez Sarsfield",
+      "id": 11,
+      "price": 49000,
+      "type": "Pantalones",
+      "img": "https://acdn.mitiendanube.com/stores/003/507/301/products/vscrh103-fte-9da11621b3d90e3f3917157233018069-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Pantalón Jogging Vélez Sarsfield",
+      "id": 12,
+      "price": 35000,
+      "type": "Pantalones",
+      "img": "https://acdn.mitiendanube.com/stores/003/507/301/products/vsprh102-fte-y-cost-jpg-462f4952eae5b3640f17135812318963-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Pantalón Jogging Vélez Sarsfield",
+      "id": 13,
+      "price": 35000,
+      "type": "Pantalones",
+      "img": "https://acdn.mitiendanube.com/stores/003/507/301/products/vsprh101-jpg-e54ac4fd3a8d2ac0f817135808047495-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Campera Rompeviento Diadora 2024",
+      "id": 14,
+      "price": 79999,
+      "type": "Campera",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/campera-rompeviento-azul-marino-01-2a25b3124e5d56660817201375761194-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Medias Home Diadora 2023",
+      "id": 10,
+      "price": 4520,
+      "type": "Medias",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/med23home-011-474be462688ee33eb116753718898226-1024-1024.webp",
+      "amount": 1
+   },
+   {
+      "name": "Medias Away Diadora 2023",
+      "id": 15,
+      "price": 5999,
+      "type": "Medias",
+      "img": "https://acdn.mitiendanube.com/stores/268/104/products/med23away-011-150c4028e1223c19f816735509350508-1024-1024.webp",
+      "amount": 1
+   }
+   
+
+]
