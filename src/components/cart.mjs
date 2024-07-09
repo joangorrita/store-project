@@ -16,6 +16,7 @@ function componentProductCart(container, product) {
                                     </div>`
 }
 
+
 function eventListenerInputAmount() {
     const inputAmount = document.querySelectorAll(".product-cart-amount")
     inputAmount.forEach(input => {
